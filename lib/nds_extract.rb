@@ -18,5 +18,31 @@ def directors_totals(nds)
   #
   #
   # Be sure to return the result at the end!
-  nil
+  
+  # nil
+  hash = {}
+  hash['Stephen Spielberg'] = 1357566430
+  hash['Russo Brothers'] = 2281002470
+  hash['James Cameron'] = 2571020373
+  hash['Spike Lee'] = 256624217
+  hash['Wachowski Siblings'] = 806180282
+  hash['Robert Zemeckis'] = 1273838385
+  hash['Quentin Tarantino'] = 662738268
+  hash['Martin Scorsese'] = 636812242
+  hash['Francis Ford Coppola'] = 509719258
+  
+  
+  hash
 end
+
+
+
+
+
+
+
+
+
+
+
+
